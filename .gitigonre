@@ -1,0 +1,6 @@
+#compiled files
+target/*
+
+#idea genearated files
+idea/*
+*.iml
