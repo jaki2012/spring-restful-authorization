@@ -2,5 +2,5 @@
 target/*
 
 #idea genearated files
-idea/*
+.idea/*
 *.iml
